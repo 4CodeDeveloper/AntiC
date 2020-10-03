@@ -1,0 +1,11 @@
+C:\Users\Arevi\source\repos\EjemploGridDB\EjemploGridDB\bin\Debug\EjemploGridDB.exe.config
+C:\Users\Arevi\source\repos\EjemploGridDB\EjemploGridDB\bin\Debug\EjemploGridDB.exe
+C:\Users\Arevi\source\repos\EjemploGridDB\EjemploGridDB\bin\Debug\EjemploGridDB.pdb
+C:\Users\Arevi\source\repos\EjemploGridDB\EjemploGridDB\bin\Debug\EjemploGridDB.xml
+C:\Users\Arevi\source\repos\EjemploGridDB\EjemploGridDB\obj\Debug\EjemploGridDB.vbprojAssemblyReference.cache
+C:\Users\Arevi\source\repos\EjemploGridDB\EjemploGridDB\obj\Debug\EjemploGridDB.Resources.resources
+C:\Users\Arevi\source\repos\EjemploGridDB\EjemploGridDB\obj\Debug\EjemploGridDB.vbproj.GenerateResource.cache
+C:\Users\Arevi\source\repos\EjemploGridDB\EjemploGridDB\obj\Debug\EjemploGridDB.exe
+C:\Users\Arevi\source\repos\EjemploGridDB\EjemploGridDB\obj\Debug\EjemploGridDB.xml
+C:\Users\Arevi\source\repos\EjemploGridDB\EjemploGridDB\obj\Debug\EjemploGridDB.pdb
+C:\Users\Arevi\source\repos\EjemploGridDB\EjemploGridDB\obj\Debug\EjemploGridDB.frmDataGridViewExample.resources
